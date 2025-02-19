@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I Love Code
 
 About Me:
-Hi, I am a Software Engineer Trainee at CODELOOM BD, committed to building efficient and innovative Web Development solutions.With a strong foundation in programming and development field,I aim to enhance my skills and contribute to impactful projects that drive technological growth and deliver value to users.
+Hi, I am a Trainee Software Engineer at CODELOOM BD, committed to building efficient and innovative Web Development solutions.With a strong foundation in programming and development field,I aim to enhance my skills and contribute to impactful projects that drive technological growth and deliver value to users.
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdtoufiqul.alam.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-toufiqul-alam-727207247/) 
