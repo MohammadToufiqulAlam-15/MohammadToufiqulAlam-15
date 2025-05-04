@@ -1,8 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Web Development Project
-- 👯 I’m looking to collaborate on  Web Development Project
-- 🤔 I’m looking for help with  Web Development
-- 💬 Ask me about  Web Development
+- 🔭 I’m currently working on Web Application Project
+- 👯 I’m looking to collaborate on  Web Application Project
+- 🤔 I’m looking for help with  Web Application
+- 💬 Ask me about  Web Application
 - 📫 How to reach me: Google "Mohammad Toufiqul Alam"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Code
